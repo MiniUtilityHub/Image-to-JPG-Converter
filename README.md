@@ -2,11 +2,6 @@
 
 This is an open-source and completely free tool based on Python that allows you to convert all image files to JPG format. Currently, it is only available as a Google Colab version, but a Windows open-source version will be released soon.
 
-## Features
-- Convert various image formats to JPG
-- Easy to use
-- High-quality output
-
 ## Updates
 - **2024-07-06**: Added Windows version
 

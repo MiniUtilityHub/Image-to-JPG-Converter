@@ -7,6 +7,8 @@ This is an open-source and completely free tool based on Python that allows you 
 2. For the upcoming Windows version, download the latest release from the [Releases](https://github.com/MiniUtilityHub/Image-to-JPG-Converter/releases) page once it's available.
 
 ## Updates
+- **2024-07-08**:Added the function to change the output path(windows version)
+- **2024-07-08**:New display output path(windows version)
 - **2024-07-06**: Added Windows version
 
 ## Future Plans
